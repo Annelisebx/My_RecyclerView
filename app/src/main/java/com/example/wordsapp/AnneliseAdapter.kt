@@ -18,7 +18,8 @@ class AnneliseAdapter :
     RecyclerView.Adapter<AnneliseAdapter.AnneliseViewHolder>() {
 
     // Generates a [CharRange] from 'A' to 'Z' and converts it to a list
-    val list = mutableListOf("1", "2", "3", "4", "5", "6", "7", "8", "9", "10")
+    val list = mutableListOf("1", "2", "3", "4", "5", "6", "7", "8", "9", "10",
+        "11", "12", "13", "14", "15", "16", "17", "18", "19", "20")
 
     /**
      * Provides a reference for the views needed to display items in your list.
